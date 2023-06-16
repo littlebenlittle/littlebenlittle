@@ -1,8 +1,9 @@
 - 👋 Hi, I’m *@littlebenlittle*
-- 👀 I’m interested in, decentralized information sharing, social justice, and irreverant art projects
+- 👀 I’m interested in decentralized information sharing, social justice, and irreverant art projects
 - 🌱 I’m currently learning about WASM runtimes
 - 💞️ I’m looking to collaborate on projects with social impact -- accepting job offers!
 - 📫 How to reach me: https://benlittle.dev/
+- 🪙 You can send me a tip at https://ko-fi.com/littlebenlittle
 
 Hello, computer systems researcher here.
 
@@ -22,6 +23,9 @@ have also written code in most major languages including **C**, **Go**, and
 **Python**. I have also worked with some more domain-specific languages like
 Coq, Prolog, and a little bit of TLA+. I am comfortable debugging and reasoning
 about assembly, compilers, and interpreters.
+
+Please reach out if you want help with your projects. I currently charge
+**$0 per hour** until a better offer shows up.
 
 <!---
 littlebenlittle/littlebenlittle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
