@@ -1,6 +1,6 @@
 - 👋 Hi, I’m *@littlebenlittle*
 - 👀 I’m interested in decentralized information sharing, social justice, and irreverant art projects
-- 🌱 I’m currently learning about WASM runtimes
+- 🌱 I’m currently researching layered virtualization and provably secure "pass-through" operations
 - 💞️ I’m looking to collaborate on projects with social impact -- accepting job offers!
 - 📫 How to reach me: https://benlittle.dev/
 - 🪙 You can send me a tip at https://ko-fi.com/littlebenlittle
