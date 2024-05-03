@@ -1,31 +1,17 @@
 - 👋 Hi, I’m *@littlebenlittle*
 - 👀 I’m interested in decentralized information sharing, social justice, and irreverant art projects
-- 🌱 I’m currently researching layered virtualization and provably secure "pass-through" operations
+- 🌱 I’m currently learning about webassembly runtimes
 - 💞️ I’m looking to collaborate on projects with social impact -- accepting job offers!
 - 📫 How to reach me: https://benlittle.dev/
 - 🪙 You can send me a tip at https://ko-fi.com/littlebenlittle
 
-Hello, computer systems researcher here.
+# Ben Little
 
-> Currently looking for gigs so I can, you know, be considered "worthy" of doing
-> things like sleeping inside and eating food.
+### Software Engineer, Computer Scientist, and Mathematician
 
-I have experience with formal semantics and automated reasoning. I'm passionate
-about writing code that is both **correct** and **easy to understand**, and
-**efficient** when it is not a detriment to the previous two properties.
+I'm a software engineer who's obsessed with building simple, correct, and understandable applications. My number one goal is to help people not only use but also understand computers.
 
-I want to work on projects with **transformative social impact**, including but
-not limited to **secure communication**, **resource sharing**, and **mutual
-support**. Sorry, I won't work on your gambling application.
-
-I mostly write code in **Rust** for its excellent static analysis suite, but
-have also written code in most major languages including **C**, **Go**, and
-**Python**. I have also worked with some more domain-specific languages like
-Coq, Prolog, and a little bit of TLA+. I am comfortable debugging and reasoning
-about assembly, compilers, and interpreters.
-
-Please reach out if you want help with your projects. I currently charge
-**$0 per hour** until a better offer shows up.
+For me, simplicity, correctness, and understandability are ethical imperatives. As a computer expert designing software for non-technical users, I acknowledge the power imbalance that is inherent to that relationship and accept responsiblity for the impact that my applications have on users.
 
 <!---
 littlebenlittle/littlebenlittle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
